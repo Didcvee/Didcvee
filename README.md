@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didcvee&label=Profile%20views&color=b40e9e&style=plastic" alt="didcvee" /> </p>
 
-- 🌱 I’m currently learning **Spring WebFlux**
+- ⋆ I’m currently learning **Spring WebFlux**
 
-- ⚡ Fun fact - **fuck Hibernate**
+- ⋆ Fun fact - **fuck Hibernate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
