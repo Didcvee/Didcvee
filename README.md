@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Kokojamba</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=didcvee&label=Profile%20views&color=b40e9e&style=plastic" alt="didcvee" /> </p>
+<p align="left"> ggg </p>
 
 - ⋆ I’m currently learning **Spring WebFlux**
 
