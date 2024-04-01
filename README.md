@@ -2,7 +2,7 @@
 <h3 align="center">A backend developer from Kokojamba</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif">
 
- ✩ I’m currently learning **Spring WebFlux**
+ ✩ I’m currently learning **Spring WebFlux** 
 
  ✩ Fun fact - **-**  
  
